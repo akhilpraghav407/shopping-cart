@@ -1,0 +1,257 @@
+nav{
+    background: white;
+}
+.navbar-nav{
+    padding-left: 85px;
+}
+.nav-item{
+    padding-right: 30px;
+}
+
+/* first content   */
+
+
+.row1{
+    background: rgba(250, 246, 246, 0.882);
+    padding-top: 60px;
+    height: 500px;
+}
+
+.unique{
+    background: #EBD96B;
+    width: 200px;
+}
+.lets{
+    background: white;
+    width: 200px;
+}
+.yellow{
+    width: 100px;
+    height: 21px;
+}
+.women{
+    float: right;
+
+}
+
+
+/*second part*/
+.second{
+    background: #EBD96B;
+    height: auto;
+}
+.hm{
+    position: relative;
+    width: 130.26px;
+    height: 29px;
+    margin-left: 112px;
+    margin-top: 23px;
+    margin-bottom: 25px;
+  }
+  .obey{
+    position: relative;
+    width: 130.26px;
+    height: 29px;
+    margin-left: 45px;
+    margin-top: 23px;
+    margin-bottom: 25px;
+
+  }
+  .lacoste{
+    position: relative;
+    width: 130.26px;
+    height: 29px;
+    /* margin-left: 10px; */
+    margin-top: 23px;
+    margin-bottom: 25px;
+  }
+  .shopify{
+    position: relative;
+    width: 130.26px;
+    height: 29px;
+    /* margin-left: 10px; */
+    margin-top: 23px;
+    margin-bottom: 25px;
+  }
+  .levis{
+    position: relative;
+    width: 130.26px;
+    height: 29px;
+    /* margin-left: 10px; */
+    margin-top: 23px;
+    margin-bottom: 25px;
+  }
+  .amazon{
+    position: relative;
+    width: 130.26px;
+    height: 29px;
+    /* margin-left: 10px; */
+    margin-top: 23px; 
+    margin-bottom: 25px;
+  }
+  
+
+
+
+
+  /* third part*/
+
+  .arrival{
+    margin-top: 100px;
+    width: 245px;
+    height: 300px;
+    border-radius: 8px;
+  }
+  #arrivals{
+    color: #000000;
+    font-family: 'Poppins';
+    font-style: normal; 
+    font-weight: 900;
+    /* line-height: 50px; */
+    padding-top: 30px;
+
+/* or 104% */
+    letter-spacing: 0.06em;
+
+
+  }
+/* 
+  .arrival-div{
+    width:30%;
+  } */
+
+
+  /*fourth part*/
+  .payday{
+          font-family: 'poppins';
+          font-style: oblique;
+          font-weight: 1000px;
+          /*line-height: 137px; */
+          /*margin-left: 200px;*/
+          font-size: 50px;
+          background: white;
+          color: #000000;
+          width: 245px;
+          height: 70px;
+  } 
+  .payday2{
+          font-family: 'Poppins';
+          font-style: oblique;
+          font-weight: 1000px;
+          line-height:48px; 
+          /*margin-left: 200px;*/
+          color: #000000;
+  }
+
+
+  .fourth{
+            background: #EBD96B;
+            margin-top: 100px;
+  }
+  .payday-image{
+    width: 438px;
+    height: 400px;
+            /* margin-left: 200px; */
+
+  }
+  .sp{
+    font-family: 'Poppins';
+    font-style: normal;
+    margin-left: 20px;
+  }
+  
+
+  /* 5th part*/
+
+  #youngs{
+    position: absolute;
+    color: #000000;
+    font-family: 'Poppins',sans-serif;
+    font-style: normal; 
+    line-height: 50px;
+    padding-top: 30px;
+
+/* or 104% */
+    letter-spacing: 0.06em;
+
+
+  }
+  .young-image{
+
+    width: 350px;
+    height: 445px;
+    padding-top: 100px;
+    border-radius: 8px;
+
+  }
+  .young-para{
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 565;
+    font-size: 16px;
+    height: 5px;
+  }
+  .bi-arrow-right{
+    margin-left: 233px;
+    
+  }
+  .bi-arrow-right:hover{
+    color: darkcyan;
+  }
+
+
+  /* 6th part*/
+  .down-para{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+
+  }
+  
+
+
+
+  /* 6th part button*/
+  .mdi-36px {
+    font-size: 39px;
+    /*margin-right:10px;*/
+}
+
+.app-image{
+  height: 350px;
+  width: 560px;
+  border-radius: 30px;
+}
+
+/* 7th part*/
+.full{
+  background: hsla(52, 89%, 45%, 0.701);
+}
+
+
+
+
+
+/* 8th part*/
+
+/* .footer{
+  height: auto;
+
+} */
+.footer-head{
+  width: 600px;
+}
+
+.icon{
+  margin:3px;
+  color:#EBD96B;
+  font-size: 25px;
+}
+
+
+
+
+
+
+
