@@ -47,47 +47,53 @@ nav{
     margin-left: 112px;
     margin-top: 23px;
     margin-bottom: 25px;
+    border-radius: 5px;
   }
   .obey{
     position: relative;
-    width: 130.26px;
+    width: 144.26px;
     height: 29px;
-    margin-left: 45px;
+    margin-left: 60px;
     margin-top: 23px;
     margin-bottom: 25px;
+    border-radius: 5px;
 
   }
   .lacoste{
     position: relative;
     width: 130.26px;
     height: 29px;
-    /* margin-left: 10px; */
+    margin-left: 0 !important;
     margin-top: 23px;
     margin-bottom: 25px;
+    border-radius: 5px;
   }
   .shopify{
     position: relative;
     width: 130.26px;
     height: 29px;
-    /* margin-left: 10px; */
+    margin-left: 30px;
     margin-top: 23px;
     margin-bottom: 25px;
+    border-radius: 5px;
   }
   .levis{
     position: relative;
     width: 130.26px;
     height: 29px;
-    /* margin-left: 10px; */
+    margin-left: 30px;
     margin-top: 23px;
     margin-bottom: 25px;
+    border-radius: 5px;
   }
   .amazon{
     position: relative;
     width: 130.26px;
     height: 29px;
-    /* margin-left: 10px; */
+    margin-left: 30px;
     margin-top: 23px; 
     margin-bottom: 25px;
+    border-radius: 5px;
   }
   
 
