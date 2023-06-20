@@ -236,8 +236,8 @@ nav{
 }
 
 .app-image{
+  width: 450px;
   height: 350px;
-  width: 560px;
   border-radius: 30px;
 }
 
